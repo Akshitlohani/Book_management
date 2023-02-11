@@ -1,0 +1,31 @@
+.form-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.form-button {
+  padding: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #3e8e41;
+}
+body {
+  background-image: url('/Users/akshitlohani/Desktop/book_management/src/library.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  background-image: url('/Users/akshitlohani/Desktop/book_management/src/library.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
